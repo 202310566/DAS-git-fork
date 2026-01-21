@@ -1,3 +1,3 @@
 Proyecto base sobre el que prácticar.
 
-Mi nombre es: Iñaki Juan-Aracil Cadarso 
+Mi nombre es: Beatriz Jimenez Zurita
